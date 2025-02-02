@@ -11,9 +11,6 @@ This project is a web-based quiz application designed to help students prepare f
 - [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
